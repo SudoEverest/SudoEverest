@@ -1,7 +1,7 @@
 <h1 align='center'>< Hello world! /></h1>
 
 <br>
-<b> This is **E V E R E S T** . <b/>
+<b> This is **EVEREST**. <b/>
 
 
 # 📈 Stats:
