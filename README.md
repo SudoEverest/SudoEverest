@@ -1,11 +1,11 @@
 <h1 align='center'>< Hello world! /></h1>
 <br>
 <h2> This is  <a href="https://github.com/SudoEverest/"><b> E V E R E S T </b></a>. </h2>
-<div display="flex" flex-direction="row" align-content="space-around">
-    <a href="https://github.com/SudoEverest/"> <img src="/icons/GitHub.svg" style="max-width: 100%;" alt="EVEREST GitHub"></a>
-    <a href="https://t.me/SudoEverest/"><img src="/icons/Telegram.svg" style="max-width: 100%;" alt="EVEREST Telegram"></a>
-    <a href="https://instagram.com/SudoEverest/"><img src="/icons/instagram.svg" style="max-width: 100%;" alt="EVEREST Instagram"></a>
-    <a href="https://youtube.com/"><img src="/icons/youtube.svg" style="max-width: 100%;" alt="EVEREST YouTube"></a>
+<div style="display:flex; flex-direction:row; align-content:space-around;">
+    <a href="https://github.com/SudoEverest/"> <img src="/icons/GitHub.svg" style="max-width: 150px;" alt="EVEREST GitHub"></a>
+    <a href="https://t.me/SudoEverest/"><img src="/icons/Telegram.svg" style="max-width: 150px;" alt="EVEREST Telegram"></a>
+    <a href="https://instagram.com/SudoEverest/"><img src="/icons/instagram.svg" style="max-width: 150px;" alt="EVEREST Instagram"></a>
+    <a href="https://youtube.com/"><img src="/icons/youtube.svg" style="max-width: 150px;" alt="EVEREST YouTube"></a>
 </div>
 
 # 📈 Stats:
