@@ -5,9 +5,7 @@
         <title>SudoEverest</title>
         <style>
             #social {
-                display: flex;
-                flex-direction: row;
-                align-content: space-around;
+
             }
         </style>
     </head>
@@ -15,7 +13,7 @@
         <h1 align='center'>< Hello world! /></h1>
         <br>
         <h2> This is  <a href="https://github.com/SudoEverest/"><b> E V E R E S T </b></a>. </h2>
-        <div id="social">
+        <div display="flex" flex-direction="row" align-content="space-around">
             <img src="../GitHub.svg" alt="EVEREST GitHub">
             <img src="../Telegram.svg" alt="EVEREST Telegram">
             <img src="../instagram.svg" alt="EVEREST Instagram">
