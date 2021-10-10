@@ -2,10 +2,10 @@
 <br>
 <h2> This is  <a href="https://github.com/SudoEverest/"><b> E V E R E S T </b></a>. </h2>
 <div display="flex" flex-direction="row" align-content="space-around">
-    <img src="../GitHub.svg" alt="EVEREST GitHub">
-    <img src="../Telegram.svg" alt="EVEREST Telegram">
-    <img src="../instagram.svg" alt="EVEREST Instagram">
-    <img src="../youtube.svg" alt="EVEREST YouTube">
+    <img src="../icons/GitHub.svg" alt="EVEREST GitHub">
+    <img src="../icons/Telegram.svg" alt="EVEREST Telegram">
+    <img src="../icons/instagram.svg" alt="EVEREST Instagram">
+    <img src="../icons/youtube.svg" alt="EVEREST YouTube">
 </div>
 
 # 📈 Stats:
