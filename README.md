@@ -1,7 +1,7 @@
 <h1 align='center'>< Hello world! /></h1>
 <br>
-<h2> This is  <a href="https://github.com/SudoEverest/"><b> E V E R E S T </b></a>. </h2>
-<div style="display:flex; flex-direction:row; align-content:space-around;">
+<h2 align='center'> This is  <a href="https://github.com/SudoEverest/"><b> E V E R E S T </b></a></h2>
+<div style="display:flex; flex-direction:row; align-content:space-around;" align='center'>
     <a href="https://github.com/SudoEverest/"><img src="/icons/GitHub.svg" style="width: 150px; height: 150px;" alt="EVEREST GitHub"></a>
     <a href="https://t.me/SudoEverest/"><img src="/icons/Telegram.svg" style="width: 150px; height: 150px;" alt="EVEREST Telegram"></a>
     <a href="https://instagram.com/SudoEverest/"><img src="/icons/instagram.svg" style="width: 150px; height: 150px;" alt="EVEREST Instagram"></a>
